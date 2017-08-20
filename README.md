@@ -1,9 +1,9 @@
 # cosc2616
-## `Project name: Real World Health Benefit (RWHB)`
+## Project name: Real World Health Benefit (RWHB)
 
 # Project goal:
 ```
-`We need to extract data from the public data sources and integrate with Hadoop/Hortonworks instance.` :boom:
+We need to extract data from the public data sources and integrate with Hadoop/Hortonworks instance.
 ```
 
 ## Asset structure information:
