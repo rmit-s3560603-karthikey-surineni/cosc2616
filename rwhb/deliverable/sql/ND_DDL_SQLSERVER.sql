@@ -1,3 +1,4 @@
+-- File: /rwhb/deliverable/sql/ND_DDL_SQLSERVER.sql
 -- Version 1.0 PSU [US001, US002] Init schema screation script
 
 -- -----------------------------------------------------
